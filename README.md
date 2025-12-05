@@ -2,8 +2,7 @@
 
 Here, we introduce QeITH to quantify Intratumor heterogeneity (ITH) within the tumor ecosystem.
 
-&nbsp
-&nbsp;
+
 
 # Description
 
@@ -198,3 +197,4 @@ QeITH_ST[1:5,]
 # Contact
 
 E-mail any questions to Xiaosheng Wang (xiaosheng.wang@hotmail.com)
+
